@@ -1,0 +1,399 @@
+{
+  "checked_at": "2026-10-08",
+  "baseline_sha": "000c797b8f56eb0f9642d62e66589ce41809f5a8",
+  "assets_source": "ziko1/dimtv.pp.ua@87eb8537f09305fdc9cd25890ef8eb7cab3e7077",
+  "index_sha256": "3b2b1afa3857d6a3239e034475b6a70c278a4ef2a66a30c2187cfbb0b36a9eca",
+  "index_preserved": true,
+  "html_resource_paths": [
+    "css/bootstrap-responsive.css",
+    "css/bootstrap.css",
+    "css/fontello.css",
+    "css/prettyPhoto.css",
+    "css/style.css",
+    "img/blog_img-01.jpg",
+    "img/blog_img-02.jpg",
+    "img/blog_img-03.jpg",
+    "img/favicon.ico",
+    "img/portfolio-01.jpg",
+    "img/portfolio-02.jpg",
+    "img/portfolio-03.jpg",
+    "img/portrait-1.jpg",
+    "img/portrait-2.jpg",
+    "img/portrait-3.jpg",
+    "img/portrait-4.jpg",
+    "js/bootstrap.js",
+    "js/jquery.js",
+    "js/jquery.localscroll-1.2.7-min.js",
+    "js/jquery.prettyPhoto.js",
+    "js/jquery.scrollTo-1.4.2-min.js",
+    "js/site.js"
+  ],
+  "missing_html_resources": [],
+  "local_http_status": {
+    "css/bootstrap-responsive.css": 200,
+    "css/bootstrap.css": 200,
+    "css/fontello.css": 200,
+    "css/prettyPhoto.css": 200,
+    "css/style.css": 200,
+    "img/blog_img-01.jpg": 200,
+    "img/blog_img-02.jpg": 200,
+    "img/blog_img-03.jpg": 200,
+    "img/favicon.ico": 200,
+    "img/portfolio-01.jpg": 200,
+    "img/portfolio-02.jpg": 200,
+    "img/portfolio-03.jpg": 200,
+    "img/portrait-1.jpg": 200,
+    "img/portrait-2.jpg": 200,
+    "img/portrait-3.jpg": 200,
+    "img/portrait-4.jpg": 200,
+    "js/bootstrap.js": 200,
+    "js/jquery.js": 200,
+    "js/jquery.localscroll-1.2.7-min.js": 200,
+    "js/jquery.prettyPhoto.js": 200,
+    "js/jquery.scrollTo-1.4.2-min.js": 200,
+    "js/site.js": 200
+  },
+  "unresolved_optional_css_resources": [
+    {
+      "css": "css/bootstrap.css",
+      "url": "../img/glyphicons-halflings-white.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/btnNext.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/btnPrevious.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/contentPattern.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/contentPattern.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/btnNext.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/btnPrevious.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/loader.gif"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_square/loader.gif"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_square/btnNext.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_square/btnPrevious.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_square/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_square/btnNext.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_square/btnPrevious.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/contentPatternTop.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/contentPatternLeft.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/contentPatternRight.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/loader.gif"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/btnNext.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/btnPrevious.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/contentPatternBottom.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/sprite.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/facebook/default_thumbnail.gif"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/btnNext.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/btnNext.png"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/light_rounded/loader.gif"
+    },
+    {
+      "css": "css/prettyPhoto.css",
+      "url": "../img/prettyPhoto/dark_rounded/contentPattern.png"
+    },
+    {
+      "css": "css/style.css",
+      "url": "../img/dot-row-2.png"
+    },
+    {
+      "css": "css/style.css",
+      "url": "../img/dot-row-3-lt.png"
+    }
+  ],
+  "limitations": [
+    "No browser, visual, form, domain or live acceptance",
+    "CSS theme assets absent in both repositories remain open",
+    "Current DimTV demo content has not been replaced with invented portfolio information"
+  ]
+}
